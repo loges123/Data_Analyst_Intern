@@ -1,0 +1,101 @@
+Rank,Processor Name,Phone,AnTuTu 10,GeekBench 6*
+1,Apple A18 Pro,"Apple iPhone 16 Pro, Apple iPhone 16 Pro Max",TBA,3429/8790
+2,Dimensity 9300 Plus,"Vivo X100s, Vivo X100s Pro, iQOO Neo 9s Pro",2305267,2343/7743
+3,Dimensity 9300,Vivo X100 series,2257733,2239 / 7538
+4,Snapdragon 8 Gen 3,"Samsung Galaxy S24 Ultra, OnePlus 12",1771106,2563 / 7256
+5,Apple A17 Pro,Apple iPhone 15 Pro Max,1549189,3269 / 7666
+6,Apple A18,Apple iPhone 16,TBA,3114/6666
+7,Exynos 2400,"Samsung Galaxy S24, Samsung Galaxy S24 Plus",1777263,2196 / 6964
+8,Snapdragon 8s Gen 3,"Redmi Turbo 3, iQOO Z9 Turbo, Xiaomi Civi 14 Pro",1554839,2019/5570
+9,Apple A16 Bionic,Apple iPhone 15,1339596,1887 / 5455
+10,Dimensity 9200 Plus,Xiaomi 13T Pro,1520871,2090 / 5532
+11,Snapdragon 8 Gen 2,Samsung Galaxy S23 Ultra,1227562,1485 / 4918
+12,Snapdragon 7 Plus Gen 3,OnePlus Ace 3v,"1,366,982",2019/5570
+13,Snapdragon 8 Plus Gen 1,"Samsung Galaxy Z Fold 4,iQOO Neo 7 Pro, Nothing Phone (2), OnePlus 11R",1292839,1767 / 4591
+14,Dimensity 9200,Vivo X90 5G,"1,260,549",1296 / 4958
+15,Apple A15 Bionic,Apple iPhone 13,1299090,1722 / 4685
+16,Dimensity 8300,Poco X6 Pro,1373164,1505 / 4829
+17,Dimensity 9000 Plus,Oppo Find N2 Flip,"1,149,845",1349 / 4342
+18,Google Tensor G3,Google Pixel 8 Pro,1142697,1760 / 4442
+19,Dimensity 9000,Vivo X80,"1,049,081",1179/4189
+20,Snapdragon 8 Gen 1,OnePlus 10 Pro,"1,029,556",1259/4189
+21,Snapdragon 7 Plus Gen 2,Poco F5,1120902,1697 / 4404
+22,Apple A14 Bionic,Apple iPhone 12,611843,1613 / 3909
+23,Snapdragon 888 Plus,Asus ROG Phone 5S,863552,1160 / 2834
+24,Exynos 2200,Samsung Galaxy S22 Ultra,"965,874",934/2925
+25,Snapdragon 7 Gen 3,"Motorola Edge 50 Pro, OnePlus Nord CE 4",866863,1139/3375
+26,Snapdragon 7s Gen 3,TBA,TBA,TBA
+27,Snapdragon 888,OnePlus 9,722907,1140 / 3745
+28,Dimensity 8100,Realme GT Neo 3,809443,1003/2607
+29,Tensor G2,Google Pixel 7 Pro,"801,116",1054 / 3138
+30,Exynos 2100,Samsung Galaxy S21,698965,1085 / 3654
+31,Google Tensor,Google Pixel 6 Pro,676789,1056 / 2855
+32,Apple A13 Bionic,Apple iPhone 11,524846,1345 / 3568
+33,Snapdragon 6 Gen 3,TBA,TBA,TBA
+34,Snapdragon 6 Gen 1,Realme 12 Pro 5G,581109,952/2749
+35,Exynos 1480,Samsung Galaxy A55,723950,1168/3503
+36,Dimensity 8050,Tecno Camon 20 Premier,752312,1097/3359
+37,Dimensity 7200,Nothing Phone (2a),712093,1187 / 2643
+38,Apple A12 Bionic,Apple iPhone XS Max,649791,1292 / 2837
+39,Snapdragon 782G,OnePlus Nord CE 3,657388,1119 / 2820
+40,Exynos 990,Samsung Galaxy S20 Ultra,727249,840 / 2670
+41,Snapdragon 7 Gen 1,Samsung Galaxy M55,665570,964 / 2761
+42,Snapdragon 780G,Xiaomi Mi 11 Lite 5G,633483,1040 / 2743
+43,Snapdragon 860,POCO X3 Pro,635611,988 / 2560
+44,Snapdragon 855+,ASUS ROG Phone III,621119,1031 / 2864
+45,Snapdragon 778G,Motorola Moto Edge 30,597882,1017 / 2841
+46,Snapdragon 7s Gen 2,Realme 12 Pro Plus,593093,1012 / 2943
+47,Exynos 1380,Samsung Galaxy F54,593369,999 / 2758
+48,Snapdragon 855,OnePlus 7 Pro,589781,930 / 2834
+49,Dimensity 7030,Motorola Moto Edge 40 Neo,526856,1024 / 2412
+50,Dimensity 7350,Nothing Phone (2a) Plus,,
+51,Dimensity 7300x,Motorola Razr 50,,1033/2751
+52,Dimensity 7300,CMF by Nothing Phone (1),741703,1043/2944
+53,Dimensity 7050,Realme Narzo 70 Pro,564336,956 / 2343
+54,Dimensity 7025,Motorola Moto G64 5G,495066,1024 / 2472
+55,Snapdragon 6 Gen 1,Vivo T3x 5G,559333,943 / 2748
+56,Snapdragon 6s Gen 3,Motorola G85,438440,908/2134
+57,Dimensity 1000+,Xiaomi Redmi K30 Ultra,486043,804/2808
+58,Dimensity 7020,Infinix Note 40 Pro 5G,464375,884/2291
+59,Dimensity 930,Vivo Y77 5G,462254,920/2325
+60,Snapdragon 4 Gen 2,Poco M6 Pro 5G,427069,918/2121
+61,Snapdragon 695,Motorola Moto G84,438461,908/2134
+62,Snapdragon 4s Gen 2,Xiaomi Redmi 14R,TBA,TBA
+63,Snapdragon 765G,Google Pixel 5,422755,797/1844
+64,Snapdragon 845,Poco F1,466347,564/2074
+65,Exynos 1280,Samsung Galaxy F34 5G,468341,851/1913
+66,Snapdragon 750G,OnePlus Nord CE 5G,406989,875/2095
+67,MediaTek Dimensity 6100 Plus,Realme Narzo 70x,393210,728/1938
+68,MediaTek Dimensity 6080,Poco X6 Neo,429595,767/2057
+69,Snapdragon 4 Gen 1,Xiaomi Redmi Note 12,414048,837/1875
+70,Snapdragon 480 Plus,Nokia G42,397591,862/1857
+71,MediaTek Dimensity 810,Realme 9i 5G,429221,780/1940
+72,MediaTek Dimensity 800U,Vivo V21 5G,433106,752/1836
+73,MediaTek 800,Oppo A92s,481286,638/2255
+74,Exynos 980,Samsung Galaxy A71 5G,430012,861/1858
+75,Kirin 810,Huawei Honor 9x Pro,415203,861/1983
+76,Dimensity 6020,Vivo T2x 5G,407111,732/1924
+77,Helio G99,Poco M5,415061,729/1979
+78,Snapdragon 732G,Xiaomi Redmi Note 10 Pro,395516,747/1843
+79,Dimensity 720,Samsung Galaxy M32 5G,388163,770/1844
+80,Snapdragon 690,Sony Xperia 10 III,362813,792/1889
+81,Snapdragon 720G,Poco M2 Pro,389839,750/1774
+82,Snapdragon 480,Motorola Moto G Stylus,356931,693/1802
+83,Dimensity 700,Oppo A78 5G,388228,711/1783
+84,Snapdragon 730G,Google Pixel 4A,380146,697/1809
+85,Exynos 9810,Samsung Galaxy S9,453442,559/1840
+86,Helio G95,Micromax IN Note 2,410282,636/1738
+87,Helio G90T,Xiaomi Redmi Note 8 Pro,375286,649/1835
+88,A10 Fusion,Apple iPhone 7,358532,691/1629
+89,Snapdragon 685,Xiaomi Redmi Note 12,346959,473/1510
+90,Snapdragon 680,Xiaomi Redmi 10 Power,309344,412/1444
+91,Helio G96,Poco M4 Pro,386760,645/1855
+92,Snapdragon 678,Xiaomi Redmi Note 10,338231,680/1556
+93,Exynos 8895,Samsung Galaxy S8,379907,418/1429
+94,Snapdragon 712,Vivo V19,321183,446/1436
+95,Snapdragon 675,Xiaomi Redmi Note 7 Pro,316077,671/1695
+96,Snapdragon 835,Google Pixel 2,368607,415/1508
+97,Helio P95,Oppo A54,299534,456/1541
+98,Kirin 970,Huawei P20,38330,383/1373
+99,Snapdragon 710,Nokia 8.1,298526,445/1352
+100,Helio G91,Itel S24,271623,429/1389

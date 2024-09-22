@@ -1,0 +1,702 @@
+[
+    {
+        "Rank":"1",
+        "Processor Name":"Apple A18 Pro",
+        "Phone":"Apple iPhone 16 Pro, Apple iPhone 16 Pro Max",
+        "AnTuTu 10":"TBA",
+        "GeekBench 6*":"3429\/8790"
+    },
+    {
+        "Rank":"2",
+        "Processor Name":"Dimensity 9300 Plus",
+        "Phone":"Vivo X100s, Vivo X100s Pro, iQOO Neo 9s Pro",
+        "AnTuTu 10":"2305267",
+        "GeekBench 6*":"2343\/7743"
+    },
+    {
+        "Rank":"3",
+        "Processor Name":"Dimensity 9300",
+        "Phone":"Vivo X100 series",
+        "AnTuTu 10":"2257733",
+        "GeekBench 6*":"2239 \/ 7538"
+    },
+    {
+        "Rank":"4",
+        "Processor Name":"Snapdragon 8 Gen 3",
+        "Phone":"Samsung Galaxy S24 Ultra, OnePlus 12",
+        "AnTuTu 10":"1771106",
+        "GeekBench 6*":"2563 \/ 7256"
+    },
+    {
+        "Rank":"5",
+        "Processor Name":"Apple A17 Pro",
+        "Phone":"Apple iPhone 15 Pro Max",
+        "AnTuTu 10":"1549189",
+        "GeekBench 6*":"3269 \/ 7666"
+    },
+    {
+        "Rank":"6",
+        "Processor Name":"Apple A18",
+        "Phone":"Apple iPhone 16",
+        "AnTuTu 10":"TBA",
+        "GeekBench 6*":"3114\/6666"
+    },
+    {
+        "Rank":"7",
+        "Processor Name":"Exynos 2400",
+        "Phone":"Samsung Galaxy S24, Samsung Galaxy S24 Plus",
+        "AnTuTu 10":"1777263",
+        "GeekBench 6*":"2196 \/ 6964"
+    },
+    {
+        "Rank":"8",
+        "Processor Name":"Snapdragon 8s Gen 3",
+        "Phone":"Redmi Turbo 3, iQOO Z9 Turbo, Xiaomi Civi 14 Pro",
+        "AnTuTu 10":"1554839",
+        "GeekBench 6*":"2019\/5570"
+    },
+    {
+        "Rank":"9",
+        "Processor Name":"Apple A16 Bionic",
+        "Phone":"Apple iPhone 15",
+        "AnTuTu 10":"1339596",
+        "GeekBench 6*":"1887 \/ 5455"
+    },
+    {
+        "Rank":"10",
+        "Processor Name":"Dimensity 9200 Plus",
+        "Phone":"Xiaomi 13T Pro",
+        "AnTuTu 10":"1520871",
+        "GeekBench 6*":"2090 \/ 5532"
+    },
+    {
+        "Rank":"11",
+        "Processor Name":"Snapdragon 8 Gen 2",
+        "Phone":"Samsung Galaxy S23 Ultra",
+        "AnTuTu 10":"1227562",
+        "GeekBench 6*":"1485 \/ 4918"
+    },
+    {
+        "Rank":"12",
+        "Processor Name":"Snapdragon 7 Plus Gen 3",
+        "Phone":"OnePlus Ace 3v",
+        "AnTuTu 10":"1,366,982",
+        "GeekBench 6*":"2019\/5570"
+    },
+    {
+        "Rank":"13",
+        "Processor Name":"Snapdragon 8 Plus Gen 1",
+        "Phone":"Samsung Galaxy Z Fold 4,iQOO Neo 7 Pro, Nothing Phone (2), OnePlus 11R",
+        "AnTuTu 10":"1292839",
+        "GeekBench 6*":"1767 \/ 4591"
+    },
+    {
+        "Rank":"14",
+        "Processor Name":"Dimensity 9200",
+        "Phone":"Vivo X90 5G",
+        "AnTuTu 10":"1,260,549",
+        "GeekBench 6*":"1296 \/ 4958"
+    },
+    {
+        "Rank":"15",
+        "Processor Name":"Apple A15 Bionic",
+        "Phone":"Apple iPhone 13",
+        "AnTuTu 10":"1299090",
+        "GeekBench 6*":"1722 \/ 4685"
+    },
+    {
+        "Rank":"16",
+        "Processor Name":"Dimensity 8300",
+        "Phone":"Poco X6 Pro",
+        "AnTuTu 10":"1373164",
+        "GeekBench 6*":"1505 \/ 4829"
+    },
+    {
+        "Rank":"17",
+        "Processor Name":"Dimensity 9000 Plus",
+        "Phone":"Oppo Find N2 Flip",
+        "AnTuTu 10":"1,149,845",
+        "GeekBench 6*":"1349 \/ 4342"
+    },
+    {
+        "Rank":"18",
+        "Processor Name":"Google Tensor G3",
+        "Phone":"Google Pixel 8 Pro",
+        "AnTuTu 10":"1142697",
+        "GeekBench 6*":"1760 \/ 4442"
+    },
+    {
+        "Rank":"19",
+        "Processor Name":"Dimensity 9000",
+        "Phone":"Vivo X80",
+        "AnTuTu 10":"1,049,081",
+        "GeekBench 6*":"1179\/4189"
+    },
+    {
+        "Rank":"20",
+        "Processor Name":"Snapdragon 8 Gen 1",
+        "Phone":"OnePlus 10 Pro",
+        "AnTuTu 10":"1,029,556",
+        "GeekBench 6*":"1259\/4189"
+    },
+    {
+        "Rank":"21",
+        "Processor Name":"Snapdragon 7 Plus Gen 2",
+        "Phone":"Poco F5",
+        "AnTuTu 10":"1120902",
+        "GeekBench 6*":"1697 \/ 4404"
+    },
+    {
+        "Rank":"22",
+        "Processor Name":"Apple A14 Bionic",
+        "Phone":"Apple iPhone 12",
+        "AnTuTu 10":"611843",
+        "GeekBench 6*":"1613 \/ 3909"
+    },
+    {
+        "Rank":"23",
+        "Processor Name":"Snapdragon 888 Plus",
+        "Phone":"Asus ROG Phone 5S",
+        "AnTuTu 10":"863552",
+        "GeekBench 6*":"1160 \/ 2834"
+    },
+    {
+        "Rank":"24",
+        "Processor Name":"Exynos 2200",
+        "Phone":"Samsung Galaxy S22 Ultra",
+        "AnTuTu 10":"965,874",
+        "GeekBench 6*":"934\/2925"
+    },
+    {
+        "Rank":"25",
+        "Processor Name":"Snapdragon 7 Gen 3",
+        "Phone":"Motorola Edge 50 Pro, OnePlus Nord CE 4",
+        "AnTuTu 10":"866863",
+        "GeekBench 6*":"1139\/3375"
+    },
+    {
+        "Rank":"26",
+        "Processor Name":"Snapdragon 7s Gen 3",
+        "Phone":"TBA",
+        "AnTuTu 10":"TBA",
+        "GeekBench 6*":"TBA"
+    },
+    {
+        "Rank":"27",
+        "Processor Name":"Snapdragon 888",
+        "Phone":"OnePlus 9",
+        "AnTuTu 10":"722907",
+        "GeekBench 6*":"1140 \/ 3745"
+    },
+    {
+        "Rank":"28",
+        "Processor Name":"Dimensity 8100",
+        "Phone":"Realme GT Neo 3",
+        "AnTuTu 10":"809443",
+        "GeekBench 6*":"1003\/2607"
+    },
+    {
+        "Rank":"29",
+        "Processor Name":"Tensor G2",
+        "Phone":"Google Pixel 7 Pro",
+        "AnTuTu 10":"801,116",
+        "GeekBench 6*":"1054 \/ 3138"
+    },
+    {
+        "Rank":"30",
+        "Processor Name":"Exynos 2100",
+        "Phone":"Samsung Galaxy S21",
+        "AnTuTu 10":"698965",
+        "GeekBench 6*":"1085 \/ 3654"
+    },
+    {
+        "Rank":"31",
+        "Processor Name":"Google Tensor",
+        "Phone":"Google Pixel 6 Pro",
+        "AnTuTu 10":"676789",
+        "GeekBench 6*":"1056 \/ 2855"
+    },
+    {
+        "Rank":"32",
+        "Processor Name":"Apple A13 Bionic",
+        "Phone":"Apple iPhone 11",
+        "AnTuTu 10":"524846",
+        "GeekBench 6*":"1345 \/ 3568"
+    },
+    {
+        "Rank":"33",
+        "Processor Name":"Snapdragon 6 Gen 3",
+        "Phone":"TBA",
+        "AnTuTu 10":"TBA",
+        "GeekBench 6*":"TBA"
+    },
+    {
+        "Rank":"34",
+        "Processor Name":"Snapdragon 6 Gen 1",
+        "Phone":"Realme 12 Pro 5G",
+        "AnTuTu 10":"581109",
+        "GeekBench 6*":"952\/2749"
+    },
+    {
+        "Rank":"35",
+        "Processor Name":"Exynos 1480",
+        "Phone":"Samsung Galaxy A55",
+        "AnTuTu 10":"723950",
+        "GeekBench 6*":"1168\/3503"
+    },
+    {
+        "Rank":"36",
+        "Processor Name":"Dimensity 8050",
+        "Phone":"Tecno Camon 20 Premier",
+        "AnTuTu 10":"752312",
+        "GeekBench 6*":"1097\/3359"
+    },
+    {
+        "Rank":"37",
+        "Processor Name":"Dimensity 7200",
+        "Phone":"Nothing Phone (2a)",
+        "AnTuTu 10":"712093",
+        "GeekBench 6*":"1187 \/ 2643"
+    },
+    {
+        "Rank":"38",
+        "Processor Name":"Apple A12 Bionic",
+        "Phone":"Apple iPhone XS Max",
+        "AnTuTu 10":"649791",
+        "GeekBench 6*":"1292 \/ 2837"
+    },
+    {
+        "Rank":"39",
+        "Processor Name":"Snapdragon 782G",
+        "Phone":"OnePlus Nord CE 3",
+        "AnTuTu 10":"657388",
+        "GeekBench 6*":"1119 \/ 2820"
+    },
+    {
+        "Rank":"40",
+        "Processor Name":"Exynos 990",
+        "Phone":"Samsung Galaxy S20 Ultra",
+        "AnTuTu 10":"727249",
+        "GeekBench 6*":"840 \/ 2670"
+    },
+    {
+        "Rank":"41",
+        "Processor Name":"Snapdragon 7 Gen 1",
+        "Phone":"Samsung Galaxy M55",
+        "AnTuTu 10":"665570",
+        "GeekBench 6*":"964 \/ 2761"
+    },
+    {
+        "Rank":"42",
+        "Processor Name":"Snapdragon 780G",
+        "Phone":"Xiaomi Mi 11 Lite 5G",
+        "AnTuTu 10":"633483",
+        "GeekBench 6*":"1040 \/ 2743"
+    },
+    {
+        "Rank":"43",
+        "Processor Name":"Snapdragon 860",
+        "Phone":"POCO X3 Pro",
+        "AnTuTu 10":"635611",
+        "GeekBench 6*":"988 \/ 2560"
+    },
+    {
+        "Rank":"44",
+        "Processor Name":"Snapdragon 855+",
+        "Phone":"ASUS ROG Phone III",
+        "AnTuTu 10":"621119",
+        "GeekBench 6*":"1031 \/ 2864"
+    },
+    {
+        "Rank":"45",
+        "Processor Name":"Snapdragon 778G",
+        "Phone":"Motorola Moto Edge 30",
+        "AnTuTu 10":"597882",
+        "GeekBench 6*":"1017 \/ 2841"
+    },
+    {
+        "Rank":"46",
+        "Processor Name":"Snapdragon 7s Gen 2",
+        "Phone":"Realme 12 Pro Plus",
+        "AnTuTu 10":"593093",
+        "GeekBench 6*":"1012 \/ 2943"
+    },
+    {
+        "Rank":"47",
+        "Processor Name":"Exynos 1380",
+        "Phone":"Samsung Galaxy F54",
+        "AnTuTu 10":"593369",
+        "GeekBench 6*":"999 \/ 2758"
+    },
+    {
+        "Rank":"48",
+        "Processor Name":"Snapdragon 855",
+        "Phone":"OnePlus 7 Pro",
+        "AnTuTu 10":"589781",
+        "GeekBench 6*":"930 \/ 2834"
+    },
+    {
+        "Rank":"49",
+        "Processor Name":"Dimensity 7030",
+        "Phone":"Motorola Moto Edge 40 Neo",
+        "AnTuTu 10":"526856",
+        "GeekBench 6*":"1024 \/ 2412"
+    },
+    {
+        "Rank":"50",
+        "Processor Name":"Dimensity 7350",
+        "Phone":"Nothing Phone (2a) Plus",
+        "AnTuTu 10":"",
+        "GeekBench 6*":""
+    },
+    {
+        "Rank":"51",
+        "Processor Name":"Dimensity 7300x",
+        "Phone":"Motorola Razr 50",
+        "AnTuTu 10":"",
+        "GeekBench 6*":"1033\/2751"
+    },
+    {
+        "Rank":"52",
+        "Processor Name":"Dimensity 7300",
+        "Phone":"CMF by Nothing Phone (1)",
+        "AnTuTu 10":"741703",
+        "GeekBench 6*":"1043\/2944"
+    },
+    {
+        "Rank":"53",
+        "Processor Name":"Dimensity 7050",
+        "Phone":"Realme Narzo 70 Pro",
+        "AnTuTu 10":"564336",
+        "GeekBench 6*":"956 \/ 2343"
+    },
+    {
+        "Rank":"54",
+        "Processor Name":"Dimensity 7025",
+        "Phone":"Motorola Moto G64 5G",
+        "AnTuTu 10":"495066",
+        "GeekBench 6*":"1024 \/ 2472"
+    },
+    {
+        "Rank":"55",
+        "Processor Name":"Snapdragon 6 Gen 1",
+        "Phone":"Vivo T3x 5G",
+        "AnTuTu 10":"559333",
+        "GeekBench 6*":"943 \/ 2748"
+    },
+    {
+        "Rank":"56",
+        "Processor Name":"Snapdragon 6s Gen 3",
+        "Phone":"Motorola G85",
+        "AnTuTu 10":"438440",
+        "GeekBench 6*":"908\/2134"
+    },
+    {
+        "Rank":"57",
+        "Processor Name":"Dimensity 1000+",
+        "Phone":"Xiaomi Redmi K30 Ultra",
+        "AnTuTu 10":"486043",
+        "GeekBench 6*":"804\/2808"
+    },
+    {
+        "Rank":"58",
+        "Processor Name":"Dimensity 7020",
+        "Phone":"Infinix Note 40 Pro 5G",
+        "AnTuTu 10":"464375",
+        "GeekBench 6*":"884\/2291"
+    },
+    {
+        "Rank":"59",
+        "Processor Name":"Dimensity 930",
+        "Phone":"Vivo Y77 5G",
+        "AnTuTu 10":"462254",
+        "GeekBench 6*":"920\/2325"
+    },
+    {
+        "Rank":"60",
+        "Processor Name":"Snapdragon 4 Gen 2",
+        "Phone":"Poco M6 Pro 5G",
+        "AnTuTu 10":"427069",
+        "GeekBench 6*":"918\/2121"
+    },
+    {
+        "Rank":"61",
+        "Processor Name":"Snapdragon 695",
+        "Phone":"Motorola Moto G84",
+        "AnTuTu 10":"438461",
+        "GeekBench 6*":"908\/2134"
+    },
+    {
+        "Rank":"62",
+        "Processor Name":"Snapdragon 4s Gen 2",
+        "Phone":"Xiaomi Redmi 14R",
+        "AnTuTu 10":"TBA",
+        "GeekBench 6*":"TBA"
+    },
+    {
+        "Rank":"63",
+        "Processor Name":"Snapdragon 765G",
+        "Phone":"Google Pixel 5",
+        "AnTuTu 10":"422755",
+        "GeekBench 6*":"797\/1844"
+    },
+    {
+        "Rank":"64",
+        "Processor Name":"Snapdragon 845",
+        "Phone":"Poco F1",
+        "AnTuTu 10":"466347",
+        "GeekBench 6*":"564\/2074"
+    },
+    {
+        "Rank":"65",
+        "Processor Name":"Exynos 1280",
+        "Phone":"Samsung Galaxy F34 5G",
+        "AnTuTu 10":"468341",
+        "GeekBench 6*":"851\/1913"
+    },
+    {
+        "Rank":"66",
+        "Processor Name":"Snapdragon 750G",
+        "Phone":"OnePlus Nord CE 5G",
+        "AnTuTu 10":"406989",
+        "GeekBench 6*":"875\/2095"
+    },
+    {
+        "Rank":"67",
+        "Processor Name":"MediaTek Dimensity 6100 Plus",
+        "Phone":"Realme Narzo 70x",
+        "AnTuTu 10":"393210",
+        "GeekBench 6*":"728\/1938"
+    },
+    {
+        "Rank":"68",
+        "Processor Name":"MediaTek Dimensity 6080",
+        "Phone":"Poco X6 Neo",
+        "AnTuTu 10":"429595",
+        "GeekBench 6*":"767\/2057"
+    },
+    {
+        "Rank":"69",
+        "Processor Name":"Snapdragon 4 Gen 1",
+        "Phone":"Xiaomi Redmi Note 12",
+        "AnTuTu 10":"414048",
+        "GeekBench 6*":"837\/1875"
+    },
+    {
+        "Rank":"70",
+        "Processor Name":"Snapdragon 480 Plus",
+        "Phone":"Nokia G42",
+        "AnTuTu 10":"397591",
+        "GeekBench 6*":"862\/1857"
+    },
+    {
+        "Rank":"71",
+        "Processor Name":"MediaTek Dimensity 810",
+        "Phone":"Realme 9i 5G",
+        "AnTuTu 10":"429221",
+        "GeekBench 6*":"780\/1940"
+    },
+    {
+        "Rank":"72",
+        "Processor Name":"MediaTek Dimensity 800U",
+        "Phone":"Vivo V21 5G",
+        "AnTuTu 10":"433106",
+        "GeekBench 6*":"752\/1836"
+    },
+    {
+        "Rank":"73",
+        "Processor Name":"MediaTek 800",
+        "Phone":"Oppo A92s",
+        "AnTuTu 10":"481286",
+        "GeekBench 6*":"638\/2255"
+    },
+    {
+        "Rank":"74",
+        "Processor Name":"Exynos 980",
+        "Phone":"Samsung Galaxy A71 5G",
+        "AnTuTu 10":"430012",
+        "GeekBench 6*":"861\/1858"
+    },
+    {
+        "Rank":"75",
+        "Processor Name":"Kirin 810",
+        "Phone":"Huawei Honor 9x Pro",
+        "AnTuTu 10":"415203",
+        "GeekBench 6*":"861\/1983"
+    },
+    {
+        "Rank":"76",
+        "Processor Name":"Dimensity 6020",
+        "Phone":"Vivo T2x 5G",
+        "AnTuTu 10":"407111",
+        "GeekBench 6*":"732\/1924"
+    },
+    {
+        "Rank":"77",
+        "Processor Name":"Helio G99",
+        "Phone":"Poco M5",
+        "AnTuTu 10":"415061",
+        "GeekBench 6*":"729\/1979"
+    },
+    {
+        "Rank":"78",
+        "Processor Name":"Snapdragon 732G",
+        "Phone":"Xiaomi Redmi Note 10 Pro",
+        "AnTuTu 10":"395516",
+        "GeekBench 6*":"747\/1843"
+    },
+    {
+        "Rank":"79",
+        "Processor Name":"Dimensity 720",
+        "Phone":"Samsung Galaxy M32 5G",
+        "AnTuTu 10":"388163",
+        "GeekBench 6*":"770\/1844"
+    },
+    {
+        "Rank":"80",
+        "Processor Name":"Snapdragon 690",
+        "Phone":"Sony Xperia 10 III",
+        "AnTuTu 10":"362813",
+        "GeekBench 6*":"792\/1889"
+    },
+    {
+        "Rank":"81",
+        "Processor Name":"Snapdragon 720G",
+        "Phone":"Poco M2 Pro",
+        "AnTuTu 10":"389839",
+        "GeekBench 6*":"750\/1774"
+    },
+    {
+        "Rank":"82",
+        "Processor Name":"Snapdragon 480",
+        "Phone":"Motorola Moto G Stylus",
+        "AnTuTu 10":"356931",
+        "GeekBench 6*":"693\/1802"
+    },
+    {
+        "Rank":"83",
+        "Processor Name":"Dimensity 700",
+        "Phone":"Oppo A78 5G",
+        "AnTuTu 10":"388228",
+        "GeekBench 6*":"711\/1783"
+    },
+    {
+        "Rank":"84",
+        "Processor Name":"Snapdragon 730G",
+        "Phone":"Google Pixel 4A",
+        "AnTuTu 10":"380146",
+        "GeekBench 6*":"697\/1809"
+    },
+    {
+        "Rank":"85",
+        "Processor Name":"Exynos 9810",
+        "Phone":"Samsung Galaxy S9",
+        "AnTuTu 10":"453442",
+        "GeekBench 6*":"559\/1840"
+    },
+    {
+        "Rank":"86",
+        "Processor Name":"Helio G95",
+        "Phone":"Micromax IN Note 2",
+        "AnTuTu 10":"410282",
+        "GeekBench 6*":"636\/1738"
+    },
+    {
+        "Rank":"87",
+        "Processor Name":"Helio G90T",
+        "Phone":"Xiaomi Redmi Note 8 Pro",
+        "AnTuTu 10":"375286",
+        "GeekBench 6*":"649\/1835"
+    },
+    {
+        "Rank":"88",
+        "Processor Name":"A10 Fusion",
+        "Phone":"Apple iPhone 7",
+        "AnTuTu 10":"358532",
+        "GeekBench 6*":"691\/1629"
+    },
+    {
+        "Rank":"89",
+        "Processor Name":"Snapdragon 685",
+        "Phone":"Xiaomi Redmi Note 12",
+        "AnTuTu 10":"346959",
+        "GeekBench 6*":"473\/1510"
+    },
+    {
+        "Rank":"90",
+        "Processor Name":"Snapdragon 680",
+        "Phone":"Xiaomi Redmi 10 Power",
+        "AnTuTu 10":"309344",
+        "GeekBench 6*":"412\/1444"
+    },
+    {
+        "Rank":"91",
+        "Processor Name":"Helio G96",
+        "Phone":"Poco M4 Pro",
+        "AnTuTu 10":"386760",
+        "GeekBench 6*":"645\/1855"
+    },
+    {
+        "Rank":"92",
+        "Processor Name":"Snapdragon 678",
+        "Phone":"Xiaomi Redmi Note 10",
+        "AnTuTu 10":"338231",
+        "GeekBench 6*":"680\/1556"
+    },
+    {
+        "Rank":"93",
+        "Processor Name":"Exynos 8895",
+        "Phone":"Samsung Galaxy S8",
+        "AnTuTu 10":"379907",
+        "GeekBench 6*":"418\/1429"
+    },
+    {
+        "Rank":"94",
+        "Processor Name":"Snapdragon 712",
+        "Phone":"Vivo V19",
+        "AnTuTu 10":"321183",
+        "GeekBench 6*":"446\/1436"
+    },
+    {
+        "Rank":"95",
+        "Processor Name":"Snapdragon 675",
+        "Phone":"Xiaomi Redmi Note 7 Pro",
+        "AnTuTu 10":"316077",
+        "GeekBench 6*":"671\/1695"
+    },
+    {
+        "Rank":"96",
+        "Processor Name":"Snapdragon 835",
+        "Phone":"Google Pixel 2",
+        "AnTuTu 10":"368607",
+        "GeekBench 6*":"415\/1508"
+    },
+    {
+        "Rank":"97",
+        "Processor Name":"Helio P95",
+        "Phone":"Oppo A54",
+        "AnTuTu 10":"299534",
+        "GeekBench 6*":"456\/1541"
+    },
+    {
+        "Rank":"98",
+        "Processor Name":"Kirin 970",
+        "Phone":"Huawei P20",
+        "AnTuTu 10":"38330",
+        "GeekBench 6*":"383\/1373"
+    },
+    {
+        "Rank":"99",
+        "Processor Name":"Snapdragon 710",
+        "Phone":"Nokia 8.1",
+        "AnTuTu 10":"298526",
+        "GeekBench 6*":"445\/1352"
+    },
+    {
+        "Rank":"100",
+        "Processor Name":"Helio G91",
+        "Phone":"Itel S24",
+        "AnTuTu 10":"271623",
+        "GeekBench 6*":"429\/1389"
+    }
+]
